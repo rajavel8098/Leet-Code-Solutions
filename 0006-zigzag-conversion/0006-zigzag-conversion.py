@@ -1,29 +1,20 @@
 class Solution(object):
     def convert(self, s, numRows):
-        """
-        :type s: str
-        :type numRows: int
-        :rtype: str
-        """
-        
         if numRows == 1 or numRows >= len(s):
             return s
-
         
-        rows = [''] * numRows
-        current_row = 0
-        going_down = False 
-
+        rows = [""] * numRows
+        curRow = 0
+        goingDown = False
         
         for char in s:
-            rows[current_row] += char
+            rows[curRow] += char
             
-            if current_row == 0 or current_row == numRows - 1:
-                going_down = not going_down
+            if curRow == 0 or curRow == numRows - 1:
+                goingDown = not goingDown
             
-            current_row += 1 if going_down else -1
-
+            curRow += 1 if goingDown else -1
         
-        return ''.join(rows)
+        return "".join(rows)
 
         
