@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
