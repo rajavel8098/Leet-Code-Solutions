@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Greedy
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
