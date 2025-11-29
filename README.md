@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
