@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0041-first-missing-positive) |
 ## Sorting
 |  |
 | ------- |
