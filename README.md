@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
