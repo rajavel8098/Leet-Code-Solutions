@@ -4,7 +4,7 @@ class Solution(object):
         :type num: int
         :rtype: str
         """
-        
+
         
         values = [
             1000, 900, 500, 400,
@@ -12,20 +12,20 @@ class Solution(object):
             10, 9, 5, 4,
             1
         ]
-        
+
         symbols = [
             "M", "CM", "D", "CD",
             "C", "XC", "L", "XL",
             "X", "IX", "V", "IV",
             "I"
         ]
-        
-        result = []
-        
-        
+
+        result = ""
+
+       
         for i in range(len(values)):
             while num >= values[i]:
+                result += symbols[i]
                 num -= values[i]
-                result.append(symbols[i])
-        
-        return "".join(result)
+
+        return result
