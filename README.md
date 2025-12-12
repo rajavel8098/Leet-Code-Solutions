@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -128,9 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
