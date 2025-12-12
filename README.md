@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 ## Binary Search
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/rajavel8098/Leet-Code-Solutions/tree/master/0054-spiral-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
